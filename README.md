@@ -1,1 +1,3 @@
-[![PageSpeed](https://api.speedbadge.io/v1?url=zawor.ski)](https://github.com/alexzaworski/PageSpeed-Badges)
+# 博客主题
+
+> [预览地址](http://pipepandafeng.gitee.io/blog_cover) - Focus on the content while having the power of HTML and Vue components whenever needed
