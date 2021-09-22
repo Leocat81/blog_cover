@@ -1,3 +1,5 @@
 # 博客主题
 
-> [预览地址](http://pipepandafeng.gitee.io/blog_cover) - Focus on the content while having the power of HTML and Vue components whenever needed
+> [预览地址](http://pipepandafeng.gitee.io/blog_cover)-<a href="http://pipepandafeng.gitee.io/blog_cover">http://pipepandafeng.gitee.io/blog_cover</a>
+
+![RUNOOB 图标](./docs/img/home.png)
