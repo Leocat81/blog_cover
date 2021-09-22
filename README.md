@@ -1,4 +1,4 @@
-# 博客主题
+# 博客
 
 > [预览地址](http://pipepandafeng.gitee.io/blog_cover)-<a href="http://pipepandafeng.gitee.io/blog_cover">http://pipepandafeng.gitee.io/blog_cover</a>
 
