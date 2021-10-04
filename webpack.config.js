@@ -13,6 +13,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
+      title:'pipe',
       template: './src/index.html', //模板位置
       filename: 'index.html', //打包出来后的文件名
     }),
