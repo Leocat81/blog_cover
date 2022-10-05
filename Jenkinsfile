@@ -5,6 +5,13 @@ pipeline {
         }
     }
     stages {
+        stage('删除之前的构建包') {
+            steps {
+                  sh '''
+                        rm -rf docs
+                     '''
+            }
+        }
         stage('下载依赖包') {
             steps {
                   sh '''
