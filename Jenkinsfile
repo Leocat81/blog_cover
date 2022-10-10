@@ -8,7 +8,7 @@ pipeline {
         stage('删除之前的构建包') {
             steps {
                   sh '''
-                        rm -rf docs
+                        rm -rf docs/dist.tar.gz
                      '''
             }
         }
