@@ -176,3 +176,10 @@ a {
         transform: translateZ(0) scale(1, 1);
     }
 }
+.bottom{
+    position: fixed;
+    bottom: 5%;
+    width: 100%;
+    text-align: center;
+    font-size: 14px;
+}
