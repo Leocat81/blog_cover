@@ -9,7 +9,7 @@ module.exports = {
   },
   output: {
     path: path.resolve(__dirname, 'docs'),
-    filename: 'js/main.js',
+    filename: 'js/[contenthash].main.js',
   },
   plugins: [
     new HtmlWebpackPlugin({

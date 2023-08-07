@@ -1,4 +1,4 @@
-import WebFont from 'webfontloader';
+// import WebFont from 'webfontloader';
 
 import PageFill from './canvas-objects/page-fill';
 import Ripple from './canvas-objects/ripple';
@@ -37,12 +37,12 @@ window.addEventListener('resize', resizeCanvas);
 dotThingo.pulse();
 dotThingo.addListeners(handleClick);
 
-WebFont.load({
-    google: {
-        families: ['Alegreya:900'],
-        text: 'Hi',
-    },
-});
+// WebFont.load({
+//     google: {
+//         families: ['Alegreya:900'],
+//         text: 'Hi',
+//     },
+// });
 // };
 
 // export default init;
