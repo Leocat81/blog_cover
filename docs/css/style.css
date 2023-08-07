@@ -41,7 +41,7 @@ body.active {
     white-space: nowrap;
 }
 .intro {
-    font-family: 'Alegreya';
+    /* font-family: 'Alegreya'; */
     font-size: 10rem;
     margin: 0 0 1.5rem 0;
     line-height: 1;
